@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPLTVEAzfuM"
-#define BLYNK_TEMPLATE_NAME "Pembatas Komsumtif Siswa Ponorogo"
-#define BLYNK_AUTH_TOKEN "dP3-4UJdx2P7s3Yi6EGKt6Yf01T2xY1k"  //REOG ROBOTIC AUTH
+#define BLYNK_TEMPLATE_ID "Your Template ID"
+#define BLYNK_TEMPLATE_NAME "Your Template NAME"
+#define BLYNK_AUTH_TOKEN "Your AUTH TOKEN" 
 #define BLYNK_PRINT Serial
 
 /* ------------------------------------------------------------------ HEADER FILE ATAU LIBRARY */
