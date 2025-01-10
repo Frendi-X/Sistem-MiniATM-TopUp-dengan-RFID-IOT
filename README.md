@@ -1,6 +1,6 @@
 # Sistem Mini ATM TopUp dengan RFID + IOT
 
-Proyek ini menggunakan Arduino sebagai kontroller utama kemudian dengan menggunakan komunikasi serial ESP8266 untuk mengirimkan data pada Blynk untuk memonitoring Saldo secara Real-Time. Proyek ini juga dilengkapi dengan printer yang akan mengeluarkan struk setelah melakukan transaksi. 
+Proyek ini menggunakan Arduino sebagai kontroller utama kemudian dengan menggunakan komunikasi serial ESP8266 untuk mengirimkan data pada Blynk untuk memonitoring Saldo secara Real-Time. Proyek ini juga dilengkapi dengan printer yang akan mengeluarkan struk setelah melakukan transaksi. [Air Force Purwokerto]
 
 ## Contacs us : 
 * [Frendi RoboTech](https://www.instagram.com/frendi.co/)
